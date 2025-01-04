@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTree tree = new BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTree();
+        BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTrees tree = new BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTrees();
 
         tree.Add(10);
         tree.Add(20);

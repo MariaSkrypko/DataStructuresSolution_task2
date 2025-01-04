@@ -15,12 +15,12 @@
                 Right = null;
             } 
         }
-        public class BinarySearchTree
+        public class BinarySearchTrees
         {
             public TreeNode Root { get; private set; }
             public int Count { get; set; }
 
-            public BinarySearchTree()
+            public BinarySearchTrees()
             {
                 Root = null;
                 Count = 0;
