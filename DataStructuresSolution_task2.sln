@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "task2\Library.csproj", "{DA35AB2A-38E3-462F-81A5-D7A4054EF7D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeLibrary", "task2\BinarySearchTreeLibrary.csproj", "{DA35AB2A-38E3-462F-81A5-D7A4054EF7D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{85A6D7DD-054E-4B82-8874-C31D83EB1E93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeApp", "App\BinarySearchTreeApp.csproj", "{85A6D7DD-054E-4B82-8874-C31D83EB1E93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

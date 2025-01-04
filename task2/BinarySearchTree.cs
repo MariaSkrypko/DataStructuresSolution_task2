@@ -1,6 +1,6 @@
-﻿namespace Library
+﻿namespace BinarySearchTreeLibrary
 {
-    public class Class1
+    public class BinarySearchTree
     {
         public class TreeNode
         {

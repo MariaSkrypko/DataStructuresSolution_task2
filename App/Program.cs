@@ -1,12 +1,12 @@
 ﻿using System;
-using Library;
-using static Library.Class1;
+using BinarySearchTreeLibrary;
+using static BinarySearchTreeLibrary.BinarySearchTree;
 
 class Program
 {
     static void Main()
     {
-        BinarySearchTree tree = new BinarySearchTree();
+        BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTree tree = new BinarySearchTreeLibrary.BinarySearchTree.BinarySearchTree();
 
         tree.Add(10);
         tree.Add(20);

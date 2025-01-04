@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\task2\Library.csproj" />
+    <ProjectReference Include="..\task2\BinarySearchTreeLibrary.csproj" />
   </ItemGroup>
 
 </Project>
